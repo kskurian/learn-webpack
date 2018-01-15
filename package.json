@@ -1,0 +1,23 @@
+{
+  "name": "web-pack-learn",
+  "version": "1.0.0",
+  "description": "Learning web pack",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kskurian/learn-webpack.git"
+  },
+  "keywords": [
+    "webpack",
+    "es6"
+  ],
+  "author": "Kurian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kskurian/learn-webpack/issues"
+  },
+  "homepage": "https://github.com/kskurian/learn-webpack#readme"
+}
